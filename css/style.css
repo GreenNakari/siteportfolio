@@ -1,0 +1,198 @@
+body {
+    background-color: #95714F;
+}
+
+.section-myaun {
+    margin-left: 50px;
+}
+        
+.p-text {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: "Unbounded", cans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.p-text2 {
+    color: #2D2217;
+    font-size: 30px;
+    font-family: "Unbounded", cans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.p-text2 {
+    font-size: 35px;
+}
+
+.tenor-sans {
+  font-family: "Tenor Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.p-center {
+    text-align: center;
+}
+
+.mask-group {
+    width: 1650px;
+}
+
+.content-header {
+    margin-left: 200px;
+}
+
+.content-banner, .content-footer {
+    background: #795D41;
+    text-align: center;
+    padding: 10px 0;
+    height: 247;
+}
+
+.razmer {
+    font-size: 70px;
+}
+
+.uslugi-zakazi {
+    word-spacing: 50px;
+}
+
+.worksarr {
+    margin-left: 0px;
+    font-size: 45px;
+}
+
+.my-photo {
+    width: 350px;
+}
+
+.information {
+    margin-left: 1400px;
+    margin-top: 0px;
+}
+
+.example {
+    width: 300px;
+}
+
+.near-works1, .near-works2 {
+    margin: 10px;
+}
+
+.works2 {
+    margin-left: 50px;
+}
+
+.figma-works1 {
+    width: 450px;
+    margin: 35px;
+}
+
+.form-zakaz {
+    text-align: center;
+    width: 350px;
+    height: 500px;
+    background-color: #EADED0;
+    border: 2px solid #EADED0;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 35px;
+}
+
+textarea {
+    height: 60px;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #EADED0;
+    background-color: #EADED0;
+}
+
+select {
+    height: 60px;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #EADED0;
+    background-color: #EADED0;
+}
+
+input {
+    height: 30px;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #EADED0;
+    background-color: #EADED0;
+}
+
+textarea, select, input {
+    margin: 15px;
+}
+
+button {
+    background-color: #795D41;
+    width: 225px;
+    padding: 25px;
+    font-size: 25px;
+    border: 2px solid #795D41;
+    color: #FFFFFF;
+}
+
+.uslugi1 {
+    text-align: center;
+    font-size: 35px;
+    width: 370px;
+    height: 320px;
+    background-color: #EADED0;
+    border: 2px solid #EADED0;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 35px;
+}
+
+.uslugi2 {
+    text-align: center;
+    font-size: 35px;
+    width: 370px;
+    height: 320px;
+    background-color: #EADED0;
+    border: 2px solid #EADED0;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 35px;
+}
+
+.uslugi-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.my-media {
+    width: 250px;
+    height: 250px;
+    margin-left: 600px;
+}
+
+.icon-svg {
+    width: 70px;
+}
+
+.social-media {
+    width: 450px;
+    height: 350px;
+    border: 2px solid #C7AF94;
+    background-color: #C7AF94;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+
+a {
+    text-decoration-line: none;
+    color: #FFFFFF;
+}
